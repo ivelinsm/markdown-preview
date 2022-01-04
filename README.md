@@ -37,7 +37,7 @@ User stories [here.](https://www.freecodecamp.org/learn/front-end-development-li
 
 ### Built with
 
-- Semantic HTML5 markup
+- Semantic HTML5
 - CSS
 - Flexbox
 - React
